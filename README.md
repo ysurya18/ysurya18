@@ -4,8 +4,7 @@
 recommendations people act on.
 
 My best work starts with a number that doesn't add up and ends with a business decision that
-changed because of it. MS in Business Analytics from Northeastern University. Open to Data
-Analyst, Business Analyst and BI roles, US-wide.
+changed because of it. MS in Business Analytics from Northeastern University.
 
 [Portfolio](https://ysurya18.github.io/) · [LinkedIn](https://www.linkedin.com/in/surya-yogananthan/) · [Email](mailto:surya.yogananthan@gmail.com)
 
